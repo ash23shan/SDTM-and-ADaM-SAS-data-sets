@@ -1,1 +1,1 @@
-# SDTM-and-ADaM-SAS-data-sets
+Sample SAS code for creation of SDTM and ADaM data sets.
